@@ -1,2 +1,2 @@
-import langchain_openai
-print(langchain_openai.__version__)
+var = "this is a python file to test openai key"
+print(var)
