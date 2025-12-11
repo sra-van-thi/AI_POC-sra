@@ -1,0 +1,2 @@
+import langchain_openai
+print(langchain_openai.__version__)
